@@ -49,3 +49,4 @@
 - 컴퓨터 하드웨어의 기본 소자
 - 게이트의 종류
 ### ![img4](https://user-images.githubusercontent.com/92620088/160226820-ebab7c3b-32db-44ac-84e1-7c7e1ac125ed.png)
+
