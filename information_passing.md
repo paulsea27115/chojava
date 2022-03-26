@@ -39,5 +39,13 @@
       - 누산기
 
 ## 불 대수
+  - 2진수의 값으로 논리적 동작을 취급하는 대수
+  - 불대수 연산자는 논리곱(AND),논리합(OR),논리 부정(NOT)이 있음
+  - 불대수의 기본 성질
  ### ![img3](https://user-images.githubusercontent.com/92620088/160226624-cbdd48d3-f2f3-483c-93ee-5569184d9e1e.png)
-
+## 게이트
+- 2진 정보를 처리하기 위한 논리 회로의 기본 소자
+- 입력 논리의 필요 조건을 만족하는 결과(0또는1)를 산출
+- 컴퓨터 하드웨어의 기본 소자
+- 게이트의 종류
+### ![img4](https://user-images.githubusercontent.com/92620088/160226820-ebab7c3b-32db-44ac-84e1-7c7e1ac125ed.png)
